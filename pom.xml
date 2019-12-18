@@ -495,21 +495,6 @@
             </reporting>
         </profile>
     </profiles>
-<distributionManagement>
-
-	<releaseRepository>
-		<id>Release</id>
-		<name>ManjuReleases</name>
-		<url>http://dupfw46809dns.eastus2.cloudapp.azure.com:8081/repository/ManjuReleases/</url>
-	</releaseRepository>
-
-	<snapshotRepository>
-		<id>Snapshot</id>
-		<name>ManjuSnapshots</name>
-		<url>http://dupfw46809dns.eastus2.cloudapp.azure.com:8081/repository/ManjuSnapshots/</url>
-	</snapshotRepository>
-
-</distributionManagement>
   
     
 </project>
