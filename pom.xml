@@ -498,13 +498,13 @@
   <distributionManagement>
 	<releaseRepository>
 		<id>Release</id>
-		<name>ManjuReleases</name>
+		<name>pardha-rel</name>
 		<url>http://52.186.127.137:8081/nexus/repository/pardha-rel/</url>
 	</releaseRepository>
 
 	<snapshotRepository>
 		<id>Snapshot</id>
-		<name>ManjuSnapshots</name>
+		<name>pardha-snap</name>
 		<url>http://52.186.127.137:8081/nexus/repository/pardha-snap/</url>
 	</snapshotRepository>
 
