@@ -496,15 +496,15 @@
         </profile>
     </profiles>
   <distributionManagement>
-	<releaseRepository>
-		<id>Release</id>
-		<name>pardha-rel</name>
+	<repository>
+		<id>deployment</id>
+		<name>Internal Releases</name>
 		<url>http://52.186.127.137:8081/nexus/repository/pardha-rel/</url>
-	</releaseRepository>
+	</repository>
 
 	<snapshotRepository>
-		<id>Snapshot</id>
-		<name>pardha-snap</name>
+		<id>deployment</id>
+		<name>Internal Snapshot Releases</name>
 		<url>http://52.186.127.137:8081/nexus/repository/pardha-snap/</url>
 	</snapshotRepository>
 
